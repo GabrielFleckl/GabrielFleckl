@@ -1,6 +1,6 @@
 ## Ola! Eu sou Gabriel Gonçalves - Desenvolvedor Front-End. 👋                                                                       
 
-- 😁 Atualmente realizando bootcamps e estudando sobre a stack de Front-End. ᓚᘏᗢ 
+- 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ 
 - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)
 <hr>
 <div>
