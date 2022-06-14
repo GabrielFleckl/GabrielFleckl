@@ -1,11 +1,6 @@
-<p align="center" text-weight="bold">
-    <strong>Ola! Eu sou Gabriel Gonçalves - Desenvolvedor Front-End.👋</strong>
-</p>
-<p>
-    - 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ 
-  <br>
-    - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)
-</p>
+<h1 align="center"> Ola! Eu sou Gabriel Gonçalves - Desenvolvedor Front-End.👋🏻‍💻</h1>
+  <h3 align="center">- 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
+    - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)</h3>
 <hr>
 <div>
   <a href="https://github.com/GabrielFleckl">
