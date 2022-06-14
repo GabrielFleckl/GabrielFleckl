@@ -1,5 +1,5 @@
-<p align="center">
-    Ola! Eu sou Gabriel Gonçalves - Desenvolvedor Front-End. 👋  
+<p align="center" text-weight="bold">
+    <strong>Ola! Eu sou Gabriel Gonçalves - Desenvolvedor Front-End.👋</strong>
 </p>
 <p>
     - 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ 
