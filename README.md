@@ -1,4 +1,4 @@
-<h1 align="center"> Ola! Eu sou Gabriel Gonçalves 👋🏻‍💻</h1>
+<h1 align="center"> Ola! Eu Sou Gabriel Gonçalves 👋🏻‍💻</h1>
 <h3 align="center"> Desenvolvedor Front-End.</h3>
 <hr>
   <h3>- 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
