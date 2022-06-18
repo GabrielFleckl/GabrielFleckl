@@ -1,5 +1,9 @@
 <h1 align="center"> Ola! Eu Sou Gabriel Gonçalves 👋🏻‍💻</h1>
 <h3 align="center"> Desenvolvedor Front-End.</h3>
+
+![giphy](https://user-images.githubusercontent.com/103828336/174454307-18004c87-507b-46ca-8508-b39cbc610f83.gif)
+
+
 <hr>
   <h3>- 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
     - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)</h3>
