@@ -1,15 +1,16 @@
 <h1 align="center"> Ola! Eu Sou Gabriel Gonçalves 👋🏻‍💻</h1>
 <h3 align="center"> Desenvolvedor Front-End :)</h3>
+
+<hr>
+  <h3>- 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
+    - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)</h3>
+<hr>
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/103828336/174454369-8079155e-fc25-4458-b9f5-ca1f4c4295bf.gif">
   
 </p>
-<hr>
-  <h3>- 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
-    - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)</h3>
-<hr>
-<div>
+<div align="center">
   <a href="https://github.com/GabrielFleckl">
   <img   height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img   height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/>
