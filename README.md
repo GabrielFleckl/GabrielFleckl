@@ -9,8 +9,18 @@
 
 <hr>
   <h3> 
-    - 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
-    - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)</h3>
+  
+   - 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ
+   - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)
+   - 👨‍💻 Se formando em Redes De Computadores em Unicesumar. ╰(*°▽°*)╯
+  <br/>
+  <p align="center" >
+      "Falar é fácil, me mostre o código."
+      - Linus Torvalds
+ </p>
+  
+</h3>
+
 <hr>
 
 <div align="center">
