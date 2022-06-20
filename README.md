@@ -8,7 +8,8 @@
 </p>
 
 <hr>
-  <h3>- 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
+  <h3> 
+    - 😁 Atualmente realizando bootcamps e focado na stack de Front-End. ᓚᘏᗢ <br>
     - 💻 Estudando HTML, CSS & Javascript. (●'◡'●)</h3>
 <hr>
 
