@@ -1,4 +1,4 @@
-<h1 align="center"> Ola! Eu Sou Gabriel Gonçalves 👋🏻‍💻</h1>
+<h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves 👋🏻‍💻</h1>
 <h3 align="center"> Desenvolvedor Front-End :)</h3>
 
 <p align="center" >
@@ -8,15 +8,16 @@
 </p>
 
 <hr>
-  <h3> 
+  <h2> 
+  
 - Admirador pelo client-side e apaixonado 
 pela área de Tecnologia da informação. 
- <br/>
+ 
 - Entusiasmado pela constante vontade de aprender, buscando meu 
 desenvolvimento pessoal e profissional.
- <br/>
+ 
 - Atualmente focando os estudos em JavaScript, Pré-Processadores CSS e frameworks do mercado atual.
-  <br/>
+  
   <p align="center" >
    <br/>
       "Falar é fácil, me mostre o código."
