@@ -28,10 +28,6 @@
 
   <h2 align="left"> 
  
-
-- Admirador pelo client-side e apaixonado 
-pela área de Tecnologia da informação. 
- 
 - Entusiasmado pela constante vontade de aprender, buscando meu 
 desenvolvimento pessoal e profissional.
  
