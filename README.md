@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<h3 align="center"> Desenvolvedor Front-End :)</h3>
+<h3 align="center"> Desenvolvedor Front-End 😊</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielFleckl&color=orange" alt="Profile views" /> </p>
 <p align="center" >
  <h2>
