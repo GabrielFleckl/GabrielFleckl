@@ -1,17 +1,32 @@
 
-<h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<h3 align="center"> Desenvolvedor Front-End 😊</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielFleckl&color=orange" alt="Profile views" /> </p>
+<h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<br>
 <p align="center" >
+ <h2 align="left"> 
+  
+📚 Atualmente focando os estudos em JavaScript, Pré-Processadores CSS.
+
+🔍 Procurando vagas para estágio em TI ou desenvovedor junior.
+  
+<br>
+<p align="center">
+<img  width="550" height="300" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47pnavcuppo49x48l3dgm4mf4rnx188pmaykh505bh&rid=giphy.gif&ct=g">
+ </p> 
+  <p align="center" >
+   <br/>
+      "Eu gosto de códigos e café ☕."
+      - Linus Torvalds
+ </p>
  <h2>
-  Contato
+ 📱 Contato
   <br>
   <br>
   <a href="https://www.linkedin.com/in/dev-gabriel-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielleiteadm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
   <h2>
-  Hard Skills
+ 🚀 Hard Skills
   <br>
   <br>
   <img align="baseline" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,21 +41,7 @@
 
 </p>
 
-  <h2 align="left"> 
   
-  
-- Atualmente focando os estudos em JavaScript, Pré-Processadores CSS.
-
-- Procurando vagas para estágio em TI ou desenvovedor junior.
-<br>
-<p align="center">
-<img  width="350" height="250" src="https://user-images.githubusercontent.com/103828336/174454369-8079155e-fc25-4458-b9f5-ca1f4c4295bf.gif">
- </p> 
-  <p align="center" >
-   <br/>
-      "Eu gosto de códigos e café."
-      - Linus Torvalds
- </p>
  
 </h3>
 <br>
