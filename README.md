@@ -38,7 +38,7 @@
  </p> 
   <p align="center" >
    <br/>
-      "Falar é fácil, me mostre o código."
+      "Eu gosto de códigos e café."
       - Linus Torvalds
  </p>
  
