@@ -28,7 +28,7 @@
 
   <h2 align="left"> 
  
-- Entusiasmado pela constante vontade de aprender, buscando meu 
+- Entusiasmado pela constante vontade de aprender mais a cada dia, sempre buscando meu 
 desenvolvimento pessoal e profissional.
  
 - Atualmente focando os estudos em JavaScript, Pré-Processadores CSS e frameworks do mercado atual.
@@ -44,7 +44,7 @@ desenvolvimento pessoal e profissional.
  
 </h3>
 <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/GabrielFleckl">
   <img   height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img   height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/>
@@ -52,7 +52,7 @@ desenvolvimento pessoal e profissional.
 
   ##
   
- <div> 
+ <div align="center"> 
   
   ![Snake animation](https://github.com/GabrielFleckl/GabrielFleckl/blob/output/github-contribution-grid-snake.svg)
  
