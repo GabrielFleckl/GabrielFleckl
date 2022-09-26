@@ -3,6 +3,7 @@
 <h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <br>
 <p align="center" >
+<img align="right" width="350" height="200" src="https://media1.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif?cid=ecf05e47180lkophjrmm7pjzeua936qanuoj88z8puy32uky&rid=giphy.gif&ct=s">
  <h2 align="left"> 
   
   📚 Atualmente focando os estudos em JavaScript, Pré-Processadores CSS.
@@ -10,6 +11,8 @@
   🔍 Procurando vagas para estágio em TI ou desenvovedor junior.
   
 <br>
+
+
 <p align="center">
 <img  width="550" height="300" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47pnavcuppo49x48l3dgm4mf4rnx188pmaykh505bh&rid=giphy.gif&ct=g">
  </p> 
@@ -18,6 +21,7 @@
       "Eu gosto de códigos e café ☕."
       - Linus Torvalds
  </p>
+ 
  <h2>
  📱 Contato
   <br>
