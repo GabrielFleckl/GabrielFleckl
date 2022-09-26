@@ -31,7 +31,7 @@
   
 - Atualmente focando os estudos em JavaScript, Pré-Processadores CSS.
 
-- Procurando vagas para estágio em TI ou junior.
+- Procurando vagas para estágio em TI ou desenvovedor junior.
 <br>
 <p align="center">
 <img  width="350" height="250" src="https://user-images.githubusercontent.com/103828336/174454369-8079155e-fc25-4458-b9f5-ca1f4c4295bf.gif">
