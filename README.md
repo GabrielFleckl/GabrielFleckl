@@ -19,7 +19,7 @@
   <p align="center" >
    <br/>
       "Eu gosto de códigos e café ☕."
-      - Linus Torvalds
+      
  </p>
  
  <h2>
