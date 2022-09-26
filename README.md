@@ -5,9 +5,9 @@
 <p align="center" >
  <h2 align="left"> 
   
-📚 Atualmente focando os estudos em JavaScript, Pré-Processadores CSS.
+  📚 Atualmente focando os estudos em JavaScript, Pré-Processadores CSS.
 
-🔍 Procurando vagas para estágio em TI ou desenvovedor junior.
+  🔍 Procurando vagas para estágio em TI ou desenvovedor junior.
   
 <br>
 <p align="center">
