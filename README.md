@@ -25,6 +25,7 @@
   <a href="https://www.linkedin.com/in/dev-gabriel-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielleiteadm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
+   
   <h2>
  🚀 Hard Skills
   <br>
@@ -50,8 +51,6 @@
   <img   height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img   height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
-  ##
   
  <div align="center"> 
   
