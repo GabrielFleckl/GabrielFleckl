@@ -18,7 +18,7 @@
  </p> 
   <p align="center" >
    <br/>
-      "Eu gosto de códigos e café ☕."
+      "Eu gosto de gatos, códigos e café ☕."
       
  </p>
  
