@@ -6,7 +6,7 @@
 <img align="right" width="350" height="200" src="https://media1.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif?cid=ecf05e47180lkophjrmm7pjzeua936qanuoj88z8puy32uky&rid=giphy.gif&ct=s">
  <h2 align="left"> 
   
-  📚 Atualmente focando os estudos em JavaScript, Pré-Processadores CSS.
+  📚 Atualmente focando os estudos em JavaScript e Pré-Processadores CSS.
 
   🔍 Procurando vagas para estágio em TI ou desenvovedor junior.
   
