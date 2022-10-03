@@ -11,15 +11,9 @@
   🔍 Procurando vagas para estágio em TI ou desenvovedor junior.
   
 <br>
-
-
-<p align="center">
-<img  width="550" height="300" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47pnavcuppo49x48l3dgm4mf4rnx188pmaykh505bh&rid=giphy.gif&ct=g">
- </p> 
   <p align="center" >
    <br/>
       "Eu gosto de gatos, códigos e café ☕☺️."
-      
  </p>
  
  <h2>
