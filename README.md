@@ -3,7 +3,7 @@
 <h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <br>
 <p align="center" >
-<img align="right" width="350" height="200" src="https://media1.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif?cid=ecf05e47180lkophjrmm7pjzeua936qanuoj88z8puy32uky&rid=giphy.gif&ct=s">
+<img align="right" width="300" height="150" src="https://media1.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif?cid=ecf05e47180lkophjrmm7pjzeua936qanuoj88z8puy32uky&rid=giphy.gif&ct=s">
  <h2 align="left"> 
   
   📚 Atualmente focando os estudos em JavaScript e Pré-Processadores CSS.
@@ -37,11 +37,7 @@
   <img align="baseline" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div style="display:inline_block" >
 </div>
-
 </p>
-
-  
- 
 </h3>
 <br>
 <div align="center">
