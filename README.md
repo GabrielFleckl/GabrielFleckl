@@ -8,7 +8,7 @@
   
   📚 Atualmente focando os estudos em JavaScript e Pré-Processadores CSS.
 
-  🔍 Procurando vagas para estágio em TI ou desenvovedor junior.
+  🔍 Procurando vagas para desenvovedor junior.
   
 <br>
   <p align="center" >
