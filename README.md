@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielFleckl&color=orange" alt="Profile views" /> </p>
 <h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" >
 
 <p align="left"> 
   Sou desenvolvedor Front-end admirador pelo client-side e extremamente apaixonado por café ☕.<br>
