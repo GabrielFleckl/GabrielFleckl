@@ -34,7 +34,7 @@ Atualmente aprendendo demais tecnologias do mercado por meio de cursos e bootcam
   </p>
 </p>
 
-💌 Me mande uma mensagem por: ⤵️
+Me mande uma mensagem por: ⤵️
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dev-gabriel-leite/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
