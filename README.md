@@ -29,9 +29,10 @@ No momento aprendendo demais tecnologias do mercado por meio de cursos e bootcam
     <img align="baseline" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="baseline" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="baseline" alt="Sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    
   </p>
 </p>
+
+<strong>👷‍♂️ Documentação de projetos em andamento...</strong>
 
 Me mande uma mensagem por: ⤵️
 
