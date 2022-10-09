@@ -4,9 +4,9 @@
  <img src="https://user-images.githubusercontent.com/103828336/194716042-c60006a0-4e20-4301-941a-8d349dae480c.png" min-width="400px" max-width="400px" width="400px" align="right" >
  
 <p align="left"> 
-  Sou desenvolvedor Front-end admirador pelo client-side e extremamente apaixonado por café ☕.<br>
+  Desenvolvedor Front-end admirador pelo client-side e extremamente apaixonado por café ☕.<br>
 
-Atualmente aprendendo demais tecnologias do mercado por meio de cursos e bootcamp´s, trabalho como designer gráfico mas estou em transição de carreira para area da tecnologia 🦾.
+No momento aprendendo demais tecnologias do mercado por meio de cursos e bootcamp´s, trabalho como designer gráfico mas atualmente estou em transição de carreira para area da tecnologia 🦾.
 
 </p>
 
@@ -16,6 +16,7 @@ Atualmente aprendendo demais tecnologias do mercado por meio de cursos e bootcam
     <img align="baseline" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="baseline" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="baseline" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="baseline" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </p>
 </p>
 
@@ -27,7 +28,7 @@ Atualmente aprendendo demais tecnologias do mercado por meio de cursos e bootcam
     <img align="baseline" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="baseline" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="baseline" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="baseline" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="baseline" alt="Sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     
   </p>
 </p>
@@ -41,8 +42,8 @@ Me mande uma mensagem por: ⤵️
 <br>
 <div align="center">
   <a href="https://github.com/GabrielFleckl">
-  <img   height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img   height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/>
+  <img   height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img   height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
  <div align="center"> 
