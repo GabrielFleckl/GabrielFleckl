@@ -6,7 +6,7 @@
 <p align="left"> 
   Desenvolvedor Front-end admirador pelo client-side e extremamente apaixonado por café ☕.<br>
 
-No momento aprendendo demais tecnologias do mercado por meio de cursos e bootcamp´s, trabalho como designer gráfico mas atualmente estou em transição de carreira para area da tecnologia 🦾.
+Desenvolvo site para terceiros e projetos próprios, além disso realizo frequentemente cursos e aulas únicas nas demais plataformas de aprendizado como Rocketseat, Udemy e Youtube para certificar meu aprendizado 🦾. 
 
 </p>
 
