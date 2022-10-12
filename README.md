@@ -35,7 +35,7 @@ Projeto e crio site para terceiros e projetos próprios, além disso realizo fre
   </p>
 </p>
 
-<strong>👷‍♂️ Em andamento no atual momento...</strong>
+<strong>👷‍♂️ Em andamento...</strong>
 
 <p align="left"> <img src="https://img.shields.io/badge/Estudando-Figma-orangered?style=for-the-badge&logo=figma" alt="Estudando" /></p>
 <p align="left"> <img src="https://img.shields.io/badge/Implementando-Documenta%C3%A7%C3%A3o-lightblue?style=for-the-badge&logo=Read%20the%20Docs" alt="docs" /></p>
