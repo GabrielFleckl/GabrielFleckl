@@ -4,9 +4,11 @@
  <img src="https://user-images.githubusercontent.com/103828336/194716042-c60006a0-4e20-4301-941a-8d349dae480c.png" min-width="400px" max-width="400px" width="400px" align="right" >
  
 <p align="left"> 
-  Desenvolvedor Front-end admirador pelo client-side e extremamente apaixonado por café ☕.<br>
+  Desenvolvedor <strong>Front-end</strong> admirador pelo client-side e amante de livros, filmes e jogos 🕹️.<br>
 
-Desenvolvo site para terceiros e projetos próprios, além disso realizo frequentemente cursos e aulas únicas nas demais plataformas de aprendizado como Rocketseat, Udemy e Youtube para certificar meu aprendizado 🦾. 
+Projeto e crio site para terceiros e projetos próprios, além disso realizo frequentemente cursos e aulas únicas nas demais plataformas de aprendizado como Rocketseat, Udemy e Youtube para certificar meu aprendizado 🦾. 
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 </p>
 
