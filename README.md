@@ -37,8 +37,9 @@ Projeto e crio site para terceiros e projetos próprios, além disso realizo fre
 
 <strong>👷‍♂️ Em andamento...</strong>
 
-<p align="left"> <img src="https://img.shields.io/badge/Estudando-Figma-orangered?style=for-the-badge&logo=figma" alt="Estudando" /></p>
-<p align="left"> <img src="https://img.shields.io/badge/Implementando-Documenta%C3%A7%C3%A3o-lightblue?style=for-the-badge&logo=Read%20the%20Docs" alt="docs" /></p>
+<p align="left"> <img src="https://img.shields.io/badge/Aprendendo_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Estudando" /></p>
+
+<p align="left"> <img src="https://img.shields.io/badge/documentando_projetos-blue?style=for-the-badge&logo=docs.rs&logoColor=white" alt="docs" /></p>
 
 Me mande uma mensagem por: ⤵️
 
