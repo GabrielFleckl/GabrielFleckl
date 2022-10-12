@@ -31,10 +31,14 @@ Projeto e crio site para terceiros e projetos próprios, além disso realizo fre
     <img align="baseline" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="baseline" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="baseline" alt="Sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="baseline" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </p>
 </p>
 
-<strong>👷‍♂️ Documentação de projetos em andamento...</strong>
+<strong>👷‍♂️ Em andamento no atual momento...</strong>
+
+<p align="left"> <img src="https://img.shields.io/badge/Estudando-Figma-orangered?style=for-the-badge&logo=figma" alt="Estudando" /></p>
+<p align="left"> <img src="https://img.shields.io/badge/Implementando-Documenta%C3%A7%C3%A3o-lightblue?style=for-the-badge&logo=Read%20the%20Docs" alt="docs" /></p>
 
 Me mande uma mensagem por: ⤵️
 
