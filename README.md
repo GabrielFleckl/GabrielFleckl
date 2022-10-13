@@ -6,7 +6,7 @@
 <p align="left"> 
   Desenvolvedor <strong>Front-end</strong> admirador pelo client-side e amante de livros, filmes e jogos 🕹️.<br>
 
-Desenvolvo site para terceiros e projetos próprios, além disso realizo frequentemente cursos e aulas nas demais plataformas de aprendizado como Rocketseat, Udemy e Youtube para certificar meu aprendizado 🚀. 
+Desenvolvo site para terceiros e projetos próprios, além disso realizo frequentemente cursos e aulas nas demais plataformas como Rocketseat, Udemy e Youtube para certificar meu aprendizado 🚀. 
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
