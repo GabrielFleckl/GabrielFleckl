@@ -8,6 +8,8 @@
 
 Desenvolvo site para terceiros e projetos próprios, além disso, realizo frequentemente cursos e aulas nas demais plataformas como Rocketseat, Udemy e Linkedin learning para certificar meu aprendizado 🚀. 
 
+"Conhecimento não ocupa espaço 🧠"
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 </p>
@@ -37,7 +39,7 @@ Desenvolvo site para terceiros e projetos próprios, além disso, realizo freque
 
 <strong>👷‍♂️ Em andamento...</strong>
 
-<p align="left"> <img src="https://img.shields.io/badge/Aprendendo_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Estudando" /></p>
+<p align="left"> <img src="https://img.shields.io/badge/Desafios%20front%20end%20mentor%20-F24E1E?style=for-the-badge&logo=Fireship&logoColor=white" alt="Estudando" /></p>
 
 <p align="left"> <img src="https://img.shields.io/badge/documentando_projetos-blue?style=for-the-badge&logo=docs.rs&logoColor=white" alt="docs" /></p>
 
