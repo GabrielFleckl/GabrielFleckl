@@ -18,6 +18,10 @@ Desenvolvo site para terceiros e projetos próprios, além disso, realizo freque
 
 ◻️ Gosto muito de ajudar outras pessoas de qualquer forma que seja, e aprender com isso também, sendo nos sucessos ou fracassos.
 
+◻️ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.
+
+◻️ Atualmente me aprofundando em: ReactJS e Javascript.
+
 </p>
 </details>
 
