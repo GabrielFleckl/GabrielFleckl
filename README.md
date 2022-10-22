@@ -10,6 +10,18 @@ Desenvolvo site para terceiros e projetos próprios, além disso, realizo freque
 
 "Conhecimento não ocupa espaço 🧠"
 
+<details>
+<summary>😃 Mais sobre mim.</summary>
+<p>
+  
+◻️ Sempre tive uma relação muita próxima com a tecnologia desde a infância tendo um conhecimento prévio de informática desde cedo. 
+
+◻️ Gosto muito de ajudar outras pessoas de qualquer forma que seja, e aprender com isso também, sendo nos sucessos ou fracassos.
+
+</p>
+</details>
+
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 </p>
