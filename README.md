@@ -14,7 +14,7 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo site para te
 <summary>😃 Mais sobre mim.</summary>
 <p>
   
-◻️ Sempre tive uma relação muita próxima com a tecnologia desde a infância tendo um conhecimento prévio de informática desde cedo. 
+◻️ Sempre tive uma relação muita próxima com a tecnologia desde a infância, tendo um conhecimento prévio de informática desde cedo. 
 
 ◻️ Gosto muito de ajudar outras pessoas de qualquer forma que seja, e aprender com isso também, sendo nos sucessos ou fracassos.
 
