@@ -37,7 +37,7 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo site para te
     <img align="baseline" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="baseline" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="baseline" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img  min-width="400px" max-width="400px" width="340px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/> 
+     <img  height="170px" min-width="400px" max-width="400px" width="340px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/> 
   </p>
 </p>
 
