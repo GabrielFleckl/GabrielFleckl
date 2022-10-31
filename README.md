@@ -60,7 +60,7 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo site para te
 <strong>👷‍♂️ Em andamento...</strong>
 
 <p align="left"> <img src="https://img.shields.io/badge/Desafios%20front%20end%20mentor%20-F24E1E?style=for-the-badge&logo=Fireship&logoColor=white" alt="Estudando" />
-    <img  width="340px" height="160px" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></p>
+    <img  width="340px" height="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></p>
 
 <p align="left"> <img src="https://img.shields.io/badge/documentando_projetos-blue?style=for-the-badge&logo=docs.rs&logoColor=white" alt="docs" /></p>
 
