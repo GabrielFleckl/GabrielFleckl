@@ -39,7 +39,7 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo site para te
     <img align="baseline" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </p>
 </p>
-  <img  min-width="400px" max-width="400px" width="360px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/> 
+  <img  min-width="400px" max-width="400px" width="340px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/> 
 <p align="left">
  
  💼 Ferramentas: <br>
@@ -59,8 +59,9 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo site para te
 <strong>👷‍♂️ Em andamento...</strong>
 
 <p align="left"> <img src="https://img.shields.io/badge/Desafios%20front%20end%20mentor%20-F24E1E?style=for-the-badge&logo=Fireship&logoColor=white" alt="Estudando" />
-   <br></p>
-<img   width="360px"  align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </p>
+  
+<img  width="340px"  align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <p align="left"> <img src="https://img.shields.io/badge/documentando_projetos-blue?style=for-the-badge&logo=docs.rs&logoColor=white" alt="docs" /></p>
 
 Me mande uma mensagem por: ⤵️
