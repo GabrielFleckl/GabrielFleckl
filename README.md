@@ -64,7 +64,7 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo site para te
 
 <p align="left"> <img src="https://img.shields.io/badge/documentando_projetos-blue?style=for-the-badge&logo=docs.rs&logoColor=white" alt="docs" /></p>
 
-Me mande uma mensagem por: ⤵️
+Entre em contato comigo por: ⤵️
 
 <br>
 <p align="left">
