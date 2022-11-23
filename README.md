@@ -62,11 +62,8 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo site para te
 <p align="left"> <img src="https://img.shields.io/badge/Desafios%20front%20end%20mentor%20-F24E1E?style=for-the-badge&logo=Fireship&logoColor=white" alt="Estudando" />
     <img  width="340px" height="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></p>
 
-<p align="left"> <img src="https://img.shields.io/badge/documentando_projetos-blue?style=for-the-badge&logo=docs.rs&logoColor=white" alt="docs" /></p>
-
 Entre em contato comigo por: ⤵️
 
-<br>
 <p align="left">
   <a href="https://www.linkedin.com/in/dev-gabriel-leite/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielleiteadm@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
