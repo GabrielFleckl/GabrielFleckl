@@ -64,7 +64,7 @@ Entre em contato comigo por: ⤵️
   <a href="https://www.linkedin.com/in/dev-gabriel-leite/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielleiteadm@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
-
+<br>
  <div align="center"> 
  
  <img  width="340px" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
