@@ -37,7 +37,7 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo sites para t
     <img align="baseline" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="baseline" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="baseline" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img  height="170px" min-width="400px" max-width="400px" width="340px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/> 
+     
   </p>
 </p>
 
@@ -53,7 +53,7 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo sites para t
    <img align="baseline" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="baseline" alt="wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
    <img align="baseline" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img  width="340px" height="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></p>
+    </p>
  </p>
   
 </p>
@@ -66,6 +66,9 @@ Entre em contato comigo por: ⤵️
 </p>
 
  <div align="center"> 
+ 
+ <img  width="340px" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ <img  height="165px" width="340px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/> 
   
   ![Snake animation](https://github.com/GabrielFleckl/GabrielFleckl/blob/output/github-contribution-grid-snake.svg)
  
