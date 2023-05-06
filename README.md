@@ -56,7 +56,6 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo sites para t
  </p>
   
 </p>
-
  <img  width="340px" height="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></p>
 
 Entre em contato comigo por: ⤵️
