@@ -53,11 +53,11 @@ Para expandir cada vez mais minha Stack e meu portfólio desenvolvo sites para t
    <img align="baseline" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="baseline" alt="wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
    <img align="baseline" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img  width="340px" height="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></p>
  </p>
   
 </p>
- <img  width="340px" height="165px" align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></p>
-
+ 
 Entre em contato comigo por: ⤵️
 
 <p align="left">
