@@ -6,7 +6,7 @@
 <p align="left"> 
   Desenvolvedor <strong>Front-end</strong> admirador pelo client-side e amante de livros, filmes e jogos 🕹️.<br>
 
-Para expandir cada vez mais minha Stack e meu portfólio desenvolvo sites para terceiros e projetos próprios, além disso, realizo frequentemente cursos e aulas nas demais plataformas como Rocketseat, Udemy e Linkedin learning para certificar meu aprendizado 🚀. 
+Para expandir cada vez mais minha Stack e meu portfólio desenvolvo sites para terceiros e projetos próprios, além disso, realizo frequentemente cursos e aulas nas demais plataformas como Rocketseat, Udemy e Alura para certificar meu aprendizado 🚀. 
 
 "Conhecimento não ocupa espaço 🧠"
 
