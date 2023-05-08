@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielFleckl&color=orange" alt="Profile views" /> </p>
-<h1 align="center"> Hello world! Eu Sou Gabriel Gonçalves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+
+ <img src=".github/Header.png" align="center" >
 
  <img src="https://user-images.githubusercontent.com/103828336/194716042-c60006a0-4e20-4301-941a-8d349dae480c.png" min-width="400px" max-width="400px" width="350px" align="right" >
  <br>
