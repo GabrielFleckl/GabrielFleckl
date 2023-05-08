@@ -14,8 +14,8 @@
 <br>
  <div align="center"> 
  
- <img  width="340px" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
- <img  height="165px" width="340px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark"/> 
+ <img width="335px" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFleckl&layout=compact&langs_count=7&theme=github_dark&hide_progress=true"/> 
   
   ![Snake animation](https://github.com/GabrielFleckl/GabrielFleckl/blob/output/github-contribution-grid-snake.svg)
  
