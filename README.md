@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielFleckl&color=orange" alt="Profile views" /> </p>
 
- <img src=".github/Readme.png" align="center" >
+ <img src=".github/readme.png" align="center" >
 
  <br>
 
