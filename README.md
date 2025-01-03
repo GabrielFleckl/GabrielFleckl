@@ -18,6 +18,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="29" alt="typescript logo"  />
   <img width="5" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="29" alt="golang logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="29" alt="tailwindcss logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="29" alt="docker logo"  />
