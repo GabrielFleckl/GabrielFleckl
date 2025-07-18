@@ -2,13 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielFleckl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielFleckl&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlwZGhrbTJjY3E5OHl3NzR5cGowZGJodXZxdzNrcTI0bzdrcGZmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
 
 ###
