@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! Eu sou Gabriel Gonçalves 👋<br>Desenvolvedor Full-stack</h2>
+<h2 align="left">Hello World! Eu sou Gabriel Gonçalves 👋<br>Desenvolvedor Front end</h2>
 
 ###
 
