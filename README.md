@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="29" alt="mysql logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="29" alt="sqlite logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=for-the-badge" height="29" alt="python logo"  />
+  <img width="5" />
 </div>
 
 ###
