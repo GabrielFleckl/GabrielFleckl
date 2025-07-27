@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="29" />
 </div>
 
----
 
 ### 📱 Contato
 
@@ -26,6 +25,5 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/seu_usuario_aqui)
 
----
 
 <img src="https://raw.githubusercontent.com/GabrielFleckl/GabrielFleckl/output/snake.svg" alt="Snake animation" />
