@@ -1,8 +1,8 @@
-<h2 align="left">Hello World! Eu sou Gabriel Gonçalves 👋</h2>
+<h2 align="left">Hello World! I am Gabriel Gonçalves 👋</h2>
 
 <img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlwZGhrbTJjY3E5OHl3NzR5cGowZGJodXZxdzNrcTI0bzdrcGZmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Tech and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="29" />
@@ -19,7 +19,7 @@
 </div>
 
 
-### 📱 Contato
+### 📱 Contact
 
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/seu_usuario_aqui)
 
